@@ -1,0 +1,11 @@
+{
+  "name": "kazuo",
+  "version": "1.0.0",
+  "description": "Un bot frère",
+  "main": "ReallyBadBot..'.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kazuo",
+  "license": "ISC"
+}
