@@ -125,4 +125,4 @@ bot.on("message", msg => {
           }
         });
 
-bot.login(process.env.TOKEN)
+bot.login("NTgzMzIxNTU5Njc5MzY5MjE2.XPKK7w.Qweh8bUf2Q3RY5a6YRfcfzWw7_U")
